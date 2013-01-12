@@ -13,8 +13,9 @@ Stable'n'rough.
 Description
 -----------
 
+Use with **Python3**. (Compatibility with >=Python2.6? Hmmm.)
+
 Radj represent the python class for russian adjectives forecasting.
-Use with Python3. Backport to >=Python2.6? Hmmm.
 
 **Input** - list of words (LOW).
 
