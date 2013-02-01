@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 # coding: utf8
 """Rough russian adjectives detector written in python."""
 
